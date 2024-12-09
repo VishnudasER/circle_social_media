@@ -1,0 +1,9 @@
+.rectangle-box {
+     width: 27vw;
+     height: 80vh;
+     flex-shrink: 0;
+     border-radius: 0px 0px 70px 70px;
+}
+.signup-img{
+    width: 500px;
+}
